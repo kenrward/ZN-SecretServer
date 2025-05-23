@@ -13,7 +13,7 @@ Configuration to use Delinea Secret Server for Zero Networks Segmentation Server
 6. Duplicate Active Directory Account
 `Settings > Secret templates`
 7. Name it **ZN Active Directory Account**
-8. Create new password changers based off Active Directory Account
+8. Create new password changers based off Active Directory Account or Powershell (Cloud Version)
 9. Call it Zero Networks SVC Changer
 10. Set script args and bypass verify
 11. Enable remote password changing for **ZN Active Directory Account**
